@@ -1,2 +1,2 @@
 # Card-Game
-<img src="C:\Users\Yuval\Downloads\banner.png"  />
+![alt text]("C:\Users\Yuval\Downloads\banner.png")
